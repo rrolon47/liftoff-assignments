@@ -12,12 +12,11 @@ ToDyeFor is a web application that allows surface designers and textile artist t
 
 
 ### Features
- List 3-5 features that you will implement in your project. Each feature should have a name and a 1-2 sentence description.
  
- User Accounts:
- Image upload: 
- Public Dye Calculator:
- Search Recipies by Color, Fabric, and Dye:
+ User Accounts: Users will be able to create an account and login to create, read, update and delete recipes. 
+ Image upload:  Account holders will have the option to upload a photo of a fabric swatch for a finished dye recipe.
+ Public Dye Calculator: Users will be able to input dye type and fabric ammount to calculate needed weights for chemicals and dye in a recipe. 
+ Search Recipies by Color, Fabric, and Dye: Users will be able to search for dye recipes made by account holders accourding to tags of color, fabric, and dye.
  
 ### Technologies
 
