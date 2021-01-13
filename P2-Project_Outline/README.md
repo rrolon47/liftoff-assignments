@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-In 1-2 paragraphs, provide an “elevator pitch” for your project. This should be a high-level overview of your idea, in non-technical language. What will your app do? What might users find useful about it? Where did the idea come from?
+
+ToDyeFor is a web application that allows surface designers and textile artist to calculate, search, create and keep track of dye recipies.  The idea came from working  for 5 years in a small surface design studio where all the recipes and fabric swatches were recorded and calculated by hand and stored in binders and bins. Needless to say it could be unorganized at times and lead to lost recipies, incorrect calculations and wondering where this bautiful scrap of fabric came from and how to replicate it.  ToDyeFor aims to remove the headache of keeping track of dye recipies, incorrect calculations, and searching for a desired recipe. 
+
+
 ### Features
  List 3-5 features that you will implement in your project. Each feature should have a name and a 1-2 sentence description.
+ 
+ User Accounts:
+ Image upload: 
+ Public Dye Calculator:
+ Search Recipies by Color, Fabric, and Dye:
+ 
 ### Technologies
-What languages and technologies will you use to build your application? 
+
+JavaScript
+C#
+ASP.NET
+MongoDB or MySQL
+
+
 ### What I'll Have to Learn
-In the course of building your project, you’ll have to learn something new. Perhaps you want to use data from a public API, or add a bit of JavaScript to make your front-end more interactive. If you can’t name the exact technology or technique that you’ll have to learn, you should still be able to describe a problem that you have identified that you don’t currently know how to solve.
+
+I will have to learn how to have a user upload an image and have it stored in a database that can be searched.  I think to do this we will have to use MongoDB so I will need to learn how to work with a new database.  To create the Dye Calculator I will need to brush up on my JavaScript skills to make it interactive. I will also need to learn how to incorperate JS into the front end and have C# work with MongoDB for the back end. 
+
 ### Project Tracker
 https://trello.com/b/uUg7dYDO/liftoff-project-board
